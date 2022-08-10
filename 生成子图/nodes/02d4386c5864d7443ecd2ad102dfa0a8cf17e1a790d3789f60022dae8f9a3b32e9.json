@@ -1,0 +1,11 @@
+{
+  "id": "02d4386c5864d7443ecd2ad102dfa0a8cf17e1a790d3789f60022dae8f9a3b32e9",
+  "node_capacity": "0.00044700 BTC",
+  "channels": [
+    {
+      "id": "624176258486763521",
+      "capacity": "0.00044700 BTC",
+      "neightbor": "03da1c27ca77872ac5b3e568af30673e599a47a5e4497f85c7b5da42048807b3ed"
+    }
+  ]
+}

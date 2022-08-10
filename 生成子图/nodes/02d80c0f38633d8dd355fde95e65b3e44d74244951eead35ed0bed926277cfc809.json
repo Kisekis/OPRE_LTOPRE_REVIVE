@@ -1,0 +1,21 @@
+{
+  "id": "02d80c0f38633d8dd355fde95e65b3e44d74244951eead35ed0bed926277cfc809",
+  "node_capacity": "0.00546472 BTC",
+  "channels": [
+    {
+      "id": "722902507042439169",
+      "capacity": "0.00322628 BTC",
+      "neightbor": "03da1c27ca77872ac5b3e568af30673e599a47a5e4497f85c7b5da42048807b3ed"
+    },
+    {
+      "id": "722991567590785024",
+      "capacity": "0.00187808 BTC",
+      "neightbor": "033e9ce4e8f0e68f7db49ffb6b9eecc10605f3f3fcb3c630545887749ab515b9c7"
+    },
+    {
+      "id": "731994368703135744",
+      "capacity": "0.00036036 BTC",
+      "neightbor": "03bc9337c7a28bb784d67742ebedd30a93bacdf7e4ca16436ef3798000242b2251"
+    }
+  ]
+}

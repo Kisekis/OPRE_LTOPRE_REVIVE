@@ -1,0 +1,56 @@
+{
+  "id": "02d21c4174c3b47018a55358c246c7d531d70d9a3c6c0eec8c32b80f99f83feff7",
+  "node_capacity": "0.12919510 BTC",
+  "channels": [
+    {
+      "id": "802819410148786177",
+      "capacity": "0.04000000 BTC",
+      "neightbor": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025"
+    },
+    {
+      "id": "802818310650200065",
+      "capacity": "0.03810000 BTC",
+      "neightbor": "02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69"
+    },
+    {
+      "id": "802819410148917249",
+      "capacity": "0.01000000 BTC",
+      "neightbor": "038fe1bd966b5cb0545963490c631eaa1924e2c4c0ea4e7dcb5d4582a1e7f2f1a5"
+    },
+    {
+      "id": "802820509717954561",
+      "capacity": "0.01000000 BTC",
+      "neightbor": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226"
+    },
+    {
+      "id": "719910735856336896",
+      "capacity": "0.00832747 BTC",
+      "neightbor": "02a1d2856be336a58af08989aea0d8c41e072ccc392c46f8ce0e6e069f002035f3"
+    },
+    {
+      "id": "719910735854567425",
+      "capacity": "0.00814443 BTC",
+      "neightbor": "03fce165537aea120bffe8505876b44d5119354f825b3eac329b761fc5636bf334"
+    },
+    {
+      "id": "719927228567388161",
+      "capacity": "0.00402586 BTC",
+      "neightbor": "03e62466ce3e4ef8875b5c365c3db7feeb5323319f44f8c62dad8ad339c11b0425"
+    },
+    {
+      "id": "756380437173633024",
+      "capacity": "0.00400000 BTC",
+      "neightbor": "0221da67cc9e0adb1370dfd00497d19a419ab625f7b3a3fce73ae9f5f3ed6d8a79"
+    },
+    {
+      "id": "719927228567453697",
+      "capacity": "0.00329867 BTC",
+      "neightbor": "0390b5d4492dc2f5318e5233ab2cebf6d48914881a33ef6a9c6bcdbb433ad986d0"
+    },
+    {
+      "id": "719927228567519232",
+      "capacity": "0.00329867 BTC",
+      "neightbor": "02875ac2c27835990ef62e5755c34264b2c39f51a41525adc5e52a7f94b3a19f8b"
+    }
+  ]
+}
